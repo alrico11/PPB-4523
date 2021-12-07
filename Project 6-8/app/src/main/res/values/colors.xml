@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Kuning">#FFEB3B</color>
+    <color name="Biru">#0328F6</color>
+    <color name="Putih">#FFFFFF</color>
+    <color name="Hitam">#000000</color>
+    <color name="Merah">#F81504</color>
+    <color name="Hijau">#03F80D</color>
+    <color name="Pink">#D903FD</color>
+</resources>
